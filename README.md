@@ -34,6 +34,15 @@ Elections, referenda, and polls are very important processes & tools for the smo
 
 </li>
  </ul>
+ <h4>Technology to be used</h4>
+ <ul>
+ <li>Azure block chain</li>
+ <li>PYTHON-DJANGO</li>
+ <li>ANGULAR</li>
+ <li>Reactjs</li>
+ <li>web3js</li>
+ </ul>
+ 
  
  <h3>Now how blockchain can solve this</h3>
  <ul>
@@ -43,7 +52,7 @@ Elections, referenda, and polls are very important processes & tools for the smo
  </li>
  
  <li><h5>Digital identity and blockchain voting </h5>Blockchain could help centralize the management of voter identities.
-Blockchain elections require an assortment of identity data such as government-issued IDs and biometric data collected during online registration to match a voter with his or her digital identity in a government voter registration database. Increasingly, biometrics like iris and face data are being used to prove identity in conjunction with voting on blockchain.
+Blockchain elections require an assortment of identity data such as Aadhar card  and biometric data collected during online registration to match a voter with his or her digital identity in a government voter registration database. Increasingly, biometrics like iris and face data are being used to prove identity in conjunction with voting on blockchain.
 </li>
 <br>
 
